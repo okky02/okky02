@@ -3,7 +3,7 @@
 ###
 
 <h5 align="left">
-  👨🏼‍💻 I am a fullstack developer<br><br>
+  👨🏼‍💻 I am a web developer<br><br>
   🌱 I’m currently learning React, MongoDB, ExpressJS<br><br>
   📫 How to reach me <a href="mailto:dhelfilanookky2001@gmail.com">dhelfilanookky2001@gmail.com</a>
 </h5>
