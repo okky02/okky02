@@ -65,8 +65,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/okky02/okky02/output/snake.svg" alt="Snake animation" />
 
 ###
