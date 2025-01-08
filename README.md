@@ -29,14 +29,14 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="10" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="10" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-  <img width="10" />
+<!--   <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="10" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
