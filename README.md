@@ -76,9 +76,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okky02/okky02/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/okky02/okky02/output/github-snake.svg" />
 </picture>
-
-###
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=okky02&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
