@@ -76,3 +76,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/okky02/okky02/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/okky02/okky02/output/github-snake.svg" />
 </picture>
+
+###
+![](https://komarev.com/ghpvc/?username=okk02&color=brightgreen)
