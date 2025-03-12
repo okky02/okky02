@@ -53,7 +53,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="45" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
   <img width="10" />
 </div>
 
